@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Manar\source\repos\OOD new A3\OOD new A3\InstFactory.h(33,22): warning C4101: 'oprnd3': unreferenced local variable
+C:\Users\Manar\source\repos\OOD new A3\OOD new A3\InstFactory.h(33,6): warning C4101: 'oprnd1': unreferenced local variable
+C:\Users\Manar\source\repos\OOD new A3\OOD new A3\InstFactory.h(33,14): warning C4101: 'oprnd2': unreferenced local variable
+C:\Users\Manar\source\repos\OOD new A3\OOD new A3\processor.h(29,23): warning C4018: '<': signed/unsigned mismatch
+  OOD new A3.vcxproj -> C:\Users\Manar\source\repos\OOD new A3\Debug\OOD new A3.exe
